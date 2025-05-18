@@ -1,0 +1,2 @@
+# weather-app
+🌤️ Weather App – Real-Time Weather Forecasting Tech Stack: HTML, CSS, JavaScript, OpenWeatherMap API  This is a responsive and user-friendly weather application that allows users to check the current weather conditions of any city around the world in real-time.  🔑 Key Features: 🔍 City-Based Search: Enter any city name to get real-time weather information.  🌡️ Live Temperature: Displays current temperature in Celsius.  💧 Humidity Monitoring: Shows humidity levels.  🌬️ Wind Speed Display: Real-time wind speed information.
